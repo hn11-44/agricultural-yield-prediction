@@ -45,6 +45,7 @@ The goal of this project was to build a complete, end-to-end data science applic
 
 ## 📁 Project Structure
 
+
 agricultural-yield-prediction/
 ├── app.py                      # Main script for the Streamlit application
 ├── data/
