@@ -75,7 +75,6 @@ To set up this project locally, follow these steps:
     conda activate ml-project-env
     ```
 
-3.  **(Note on Data):** The project includes scripts to download data. However, due to potential network issues with the NASA API, a pre-compiled weather dataset is required for full functionality. A sample can be provided upon request.
 
 ## 🚀 Usage
 
@@ -87,7 +86,6 @@ Once the environment is set up, you can run the interactive web application:
     ```bash
     streamlit run app.py
     ```
-This will launch the application in your web browser. You can also explore the Jupyter notebooks in the `notebooks/` directory to see the step-by-step process of data cleaning, feature engineering, and model training.
 
 ## 📊 Model Performance
 
