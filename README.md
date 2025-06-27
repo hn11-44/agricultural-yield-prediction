@@ -45,7 +45,7 @@ The goal of this project was to build a complete, end-to-end data science applic
 
 ## 📁 Project Structure
 
-
+```
 agricultural-yield-prediction/
 ├── app.py                      # Main script for the Streamlit application
 ├── data/
@@ -57,8 +57,9 @@ agricultural-yield-prediction/
 │   └── data_ingestion/         # Scripts for programmatically downloading data
 ├── environment.yml             # Conda environment file for reproducibility
 └── README.md                   # This file
+```
 
-## ⚙️ Setup and Installation
+ ⚙️ Setup and Installation
 
 To set up this project locally, follow these steps:
 
