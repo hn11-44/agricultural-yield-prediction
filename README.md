@@ -82,7 +82,7 @@ Markdown
 
 This project is an end-to-end machine learning application that predicts corn yield (in bushels per acre) for counties in Iowa. It leverages a multi-modal approach, combining historical agricultural data with daily weather data to train a predictive XGBoost model. The final model is deployed as an interactive web application using Streamlit.
 
-**[➡️ View the Live Streamlit App Here!]([Link-to-your-deployed-streamlit-app])**
+**[➡️ View the Live Streamlit App Here!]([iowa-corn-prediction.streamlit.app])**
 
 ---
 
@@ -141,7 +141,7 @@ To set up this project locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [Link-to-your-GitHub-repository]
+    git clone [https://github.com/hn11-44/agricultural-yield-prediction]
     cd agricultural-yield-prediction
     ```
 
