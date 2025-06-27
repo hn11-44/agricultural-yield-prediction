@@ -3,3 +3,8 @@ requests
 python-dotenv
 ipykernel
 xgboost
+scikit-learn
+streamlit
+seaborn
+ipykernel
+matplotlib
