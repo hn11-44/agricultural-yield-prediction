@@ -4,7 +4,7 @@
 
 This project is an end-to-end machine learning application that predicts corn yield (in bushels per acre) for counties in Iowa. It leverages a multi-modal approach, combining historical agricultural data with daily weather data to train a predictive XGBoost model. The final model is deployed as an interactive web application using Streamlit.
 
-**[➡️ View the Live Streamlit App Here!](iowa-corn-prediction.streamlit.app)**
+**[➡️ View the Live Streamlit App Here!](https://iowa-corn-prediction.streamlit.app)**
 
 ---
 
